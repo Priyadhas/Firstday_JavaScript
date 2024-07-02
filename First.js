@@ -42,8 +42,7 @@ console.log(pattern);
 let result=(1,2,3);
 console.log(result);
 console.log(typeof (result));
-let a1={ name:"Priya",rollno:45};
-console.log( name instanceof a1);
+
 
  //Switch case program
 let day = 4;
